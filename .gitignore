@@ -15,3 +15,6 @@ Session.vim
 *.so
 *.dylib
 .DS_Store
+
+# This file is generated automatically when building
+arch/includes.h
